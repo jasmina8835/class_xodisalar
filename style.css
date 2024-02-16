@@ -1,0 +1,28 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+    background-color: #E8DFFF;
+    color: #07022A;
+    text-align: center;
+    padding-top: 100px;
+}
+
+button{
+    background-color: #07022A;
+    color: #E8DFFF;
+    border: none;
+    border-radius: 10px;
+    padding: 15px 25px;
+}
+
+.dark{
+    background-color: #07022A;
+    color: #E8DFFF;
+}
+
